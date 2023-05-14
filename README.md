@@ -1,0 +1,3 @@
+# projeto-listagem-pokemon
+// Projeto feito na semana do " 0 Ao progamador contratado "
+HTML e CSS ja havia vivencia, agora Java foi muito diferente ...
